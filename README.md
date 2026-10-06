@@ -1,1 +1,1 @@
-# beautyLive
+# Beauty Stack
